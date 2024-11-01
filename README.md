@@ -1,2 +1,0 @@
-# kiek
-#THIS IS MY FIRST REPO.
